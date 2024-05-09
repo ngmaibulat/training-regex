@@ -54,7 +54,7 @@ grep -i --color 'ufa' file.txt
 Контекст - это несколько строк до и после найденной строки
 
 ```bash
-grep -i -A 2 'ufa' file.txt
-grep -i -B 2 'ufa' file.txt
-grep -i -C 2 'ufa' file.txt
+grep -i --color -A 2 'ufa' file.txt
+grep -i --color -B 2 'ufa' file.txt
+grep -i --color -C 2 'ufa' file.txt
 ```
