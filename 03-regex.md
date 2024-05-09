@@ -29,7 +29,7 @@
 -   **Альтернация**
 
 ```bash
-egrep 'cat|dog' file.txt
+egrep 'cat|dog|horse' file.txt
 ```
 
 -   **Классы символов:**
